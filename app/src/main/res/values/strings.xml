@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Bibla</string>
+    <string name="set_bible">Set Verse</string>
+    <string name="set_feedback">Send Feedback</string>
+    <string name="set_book">Schedule Reading</string>
+    <string name="read_book">Read Now</string>
+    <color name="my_color">#000000</color>
+    <string name="set_back">Stop</string>
+    <string name="customactivityoncrash_error_activity_error_occurred_explanation">An unexpected error occurred.\nPlease check your internet connection.\nOtherwise send us feedback</string>
+    <string name="customactivityoncrash_error_activity_unknown_exception">Unknown exception</string>
+    <string name="customactivityoncrash_error_activity_restart_app">Restart app</string>
+    <string name="customactivityoncrash_error_activity_close_app">Close app</string>
+    <string name="customactivityoncrash_error_activity_error_details">Error details</string>
+    <string name="customactivityoncrash_error_activity_error_details_title">Error details</string>
+    <string name="customactivityoncrash_error_activity_error_details_close">Close</string>
+    <string name="customactivityoncrash_error_activity_error_details_copy">Copy to clipboard</string>
+    <string name="customactivityoncrash_error_activity_error_details_copied">Copied to clipboard</string>
+    <string name="customactivityoncrash_error_activity_error_details_clipboard_label">Error information</string>
+    <string-array name="books_each">
+        <item>GENESIS</item>
+        <item>EXODUS</item>
+        <item>LEVITICUS</item>
+        <item>NUMBERS</item>
+        <item>DEUTERONOMY</item>
+        <item>JOSHUA</item>
+        <item>JUDGES</item>
+        <item>RUTH</item>
+        <item>1SAMUEL</item>
+        <item>2SAMUEL</item>
+        <item>1KING</item>
+        <item>2KING</item>
+        <item>1CHRONICLE</item>
+        <item>2CHRONICLE</item>
+        <item>EZRA</item>
+        <item>NEHEMIAH</item>
+        <item>ESTHER</item>
+        <item>JOB</item>
+        <item>PSALMS</item>
+        <item>PROVERBS</item>
+        <item>ECCLESIASTES</item>
+        <item>SONGSOFSOLOMON</item>
+        <item>ISAIAH</item>
+        <item>JEREMIAH</item>
+        <item>LAMENTATION</item>
+        <item>EZEKIEL</item>
+        <item>DANIEL</item>
+        <item>HOSEA</item>
+        <item>JOEL</item>
+        <item>AMOS</item>
+        <item>OBADIAH</item>
+        <item>JONAH</item>
+        <item>MICAH</item>
+        <item>NAHUM</item>
+        <item>HABAKUK</item>
+        <item>ZEPHANIAH</item>
+        <item>HAGAI</item>
+        <item>ZECHARIAH</item>
+        <item>MALACHI</item>
+        <item>MATHEW</item>
+        <item>MARK</item>
+        <item>LUKE</item>
+        <item>JOHN</item>
+        <item>ACTS</item>
+        <item>ROMANS</item>
+        <item>1CORINTHIANS</item>
+        <item>2CORINTHIANS</item>
+        <item>GALATIANS</item>
+        <item>EPHESIANS</item>
+        <item>PHILIPIANS</item>
+        <item>COLLOSIANS</item>
+        <item>1THESSALONIANS</item>
+        <item>2THESSALONIANS</item>
+        <item>1TIMOTHY</item>
+        <item>2TIMOTHY</item>
+        <item>TITUS</item>
+        <item>PHILEMON</item>
+        <item>HEBREWS</item>
+        <item>JAMES</item>
+        <item>1PETER</item>
+        <item>2PETER</item>
+        <item>1JOHN</item>
+        <item>2JOHN</item>
+        <item>3JOHN</item>
+        <item>JUDE</item>
+        <item>REVELATION</item>
+    </string-array>
+</resources>
